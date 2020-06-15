@@ -1,9 +1,3 @@
 node_modules/
 .DS_Store
-*.log
-.idea
-haters/
-variables.env
-variables.env.now
-/starter-files/node_modules/
-/stepped-solutions/
+variables.env.sample
